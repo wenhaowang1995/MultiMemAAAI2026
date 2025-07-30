@@ -6,7 +6,7 @@ The TOP10 most memorized samples for VideoCLIP are presented in folder VideoCLIP
 
 We observe that all of these samples contain captions that are misaligned with the corresponding videos. A common pattern is the presence of vague or generic phrases such as “footage from a TV show” or “clip of a movie,” which carry little semantic information.
 
-\\
+\
 
 The TOP10 most memorized samples for AVT are presented in folder AVTCLIP_top10
 
